@@ -1,0 +1,2 @@
+# JupyterPractice
+Trying out Jupyter
